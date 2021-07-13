@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=bydkmnn@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-dikmen/)
 <br>
-![image](https://user-images.githubusercontent.com/81514530/125501140-6dcff449-c680-4e5b-9f8c-25da1d91a28d.png)
+
+![image](https://user-images.githubusercontent.com/81514530/125501140-6dcff449-c680-4e5b-9f8c-25da1d91a28d.png)<br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brkdkmn&show_icons=true&theme=onedark)<br>
 
