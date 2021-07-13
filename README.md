@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/81514530/125501140-6dcff449-c680-4e5b-9f8c-25da1d91a28d.png)<br>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brkdkmn&show_icons=true&theme=onedark)<br>
 
 ![](https://komarev.com/ghpvc/?username=brkdkmn)<br>
